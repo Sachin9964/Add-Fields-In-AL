@@ -10,7 +10,7 @@ pageextension 50100 CustomerListExt extends "Customer List"
     end;
 }
 */
-
+/*
 table 50101 TestTable
 {
     //DataClassification = ToBeClassified;
@@ -65,4 +65,4 @@ table 50101 TestTable
         
     end;
     
-}
+}*/
