@@ -16,7 +16,7 @@ page 50110 CustInfoFactBox
     }
 }
 
-// Page extension adding "MyOwnFactBox" to the Customer Card
+// Page extension adding "CustInfoFactBox" to the Customer Card
 pageextension 50110 MyExtension extends "Customer Card"
 {
     layout
