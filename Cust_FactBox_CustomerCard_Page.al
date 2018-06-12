@@ -1,4 +1,4 @@
-// The factbox part that should be added
+// The factbox part that should be added.
 page 50110 CustInfoFactBox
 {
     PageType = CardPart;
