@@ -29,8 +29,12 @@ table 50101 TestTable
         field(2;Name;Text[50])
         {
             /*InitValue='Sachin';*/
-            Description = 'Id retrive by Service';
+            Description = 'Name retrive by Service';
             //DataClassification=ToBeClassified;
+        }
+        field(3;Address;Text[50])
+        {
+
         }
     }
     
