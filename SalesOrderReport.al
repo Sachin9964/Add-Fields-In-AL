@@ -3,7 +3,7 @@ report 50103 SalesOrder
     DefaultLayout = RDLC;
     RDLCLayout = 'SalesOrder.rdl';
     UsageCategory = ReportsAndAnalysis;
-    
+
     dataset
     {
         dataitem(Sales_Header;"Sales Header")
